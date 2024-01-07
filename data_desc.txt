@@ -1,0 +1,35 @@
+=> ID Nomor identifikasi atau kode yang ditetapkan untuk setiap daftar mobil di dataset. Ini adalah pengidentifikasi unik yang membedakan satu daftar dari yang lain.
+
+=> Price Harga mobil bekas yang tertera untuk dijual. Ini mewakili harga permintaan yang ditetapkan oleh penjual.
+
+=> Year Tahun pembuatan atau produksi kendaraan. Ini menunjukkan usia mobil.
+
+=> Manufacturer Merek atau produsen mobil tersebut, seperti Toyota, Honda, Ford, dll.
+
+=> Model Model atau varian mobil tertentu, seperti Camry, Civic, Mustang, dll.
+
+=> Condition Menggambarkan kondisi mobil, yang dapat berkisar dari baru hingga sangat baik, bagus, wajar, atau bekas. Ini memberikan indikasi keadaan kendaraan secara keseluruhan.
+
+=> Cylinders Jumlah silinder pada mesin mobil. Ini menunjukkan konfigurasi mesin dan mempengaruhi performa kendaraan.
+
+=> Fuel Jenis bahan bakar yang digunakan mobil, seperti bensin, solar, elektrik, hybrid, atau bahan bakar alternatif lainnya.
+
+=> Odometer Catatan jarak tempuh atau jarak yang ditempuh oleh kendaraan. Ini memberikan indikasi penggunaan mobil dan dapat mempengaruhi nilainya.
+
+=> Title Status Mengacu pada status kepemilikan mobil atau dokumen kepemilikan, seperti clean, salvage, rebuilt, atau lien. Ini memberikan informasi tentang status hukum kendaraan.
+
+=> Transmission Menentukan jenis sistem transmisi pada mobil, seperti manual, otomatis, atau continuous variable transmission (CVT).
+
+=> Drive Menunjukkan konfigurasi drivetrain kendaraan, seperti penggerak roda depan (FWD), penggerak roda belakang (RWD), penggerak semua roda (AWD), atau penggerak empat roda (4WD).
+
+=> Size Menggambarkan ukuran atau kelas mobil, seperti compact, mid-size, full-size, SUV, truck, dll.
+
+=> Type Mengacu pada tipe bodi atau gaya mobil, seperti sedan, coupe, hatchback, SUV, truk, convertible, dll.
+
+=> Paint Color Menentukan warna eksterior mobil, seperti hitam, putih, merah, biru, dll.
+
+=> State Menunjukkan negara bagian atau lokasi tempat mobil terdaftar untuk dijual.
+
+=> Latitude (Lat) dan Longitude (Long) Koordinat geografis lokasi tempat mobil terdaftar. Ini memungkinkan untuk pemetaan dan analisis geospasial.
+
+=> Posting Date Tanggal dan waktu ketika listing mobil telah diposting atau tersedia untuk dijual.
